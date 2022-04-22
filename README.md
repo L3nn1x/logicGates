@@ -1,2 +1,2 @@
 # logicGates
-a mini library that contains the 7 logic gates
+a small library that contains the 7 logic gates
